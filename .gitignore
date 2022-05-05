@@ -1,1 +1,9 @@
-**.ipynb_checkpoints
+.gitignore
+
+.ipynb_checkpoints
+
+# Ignore pdf files
+*.pdf
+
+# Ignore zip files
+*.zip
