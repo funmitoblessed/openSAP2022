@@ -2,6 +2,7 @@
 
 # Ignore checkpoint files
 .ipynb_checkpoints
+*.ipynb_checkpoints
 
 # Ignore pdf files
 *.pdf
@@ -9,6 +10,6 @@
 # Ignore zip files
 *.zip
 
-openSAP_python1_Week_?_All_Slides.pdf
+**openSAP_python1_Week_?_All_Slides.pdf
 
-openSAP_phyton1_Week_?_All_notebooks.zip
+**openSAP_phyton1_Week_?_All_notebooks.zip
