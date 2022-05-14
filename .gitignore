@@ -1,8 +1,11 @@
 .gitignore
 
-# Ignore checkpoint files
-.ipynb_checkpoints
-*.ipynb_checkpoints
+*?-checkpoint.ipynb
+*?-checkpoint.txt
+
+# Ignore checkpoint files and folders
+ipynb_checkpoints/
+.ipynb_checkpoints/
 
 # Ignore pdf files
 *.pdf

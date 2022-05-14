@@ -1,0 +1,6 @@
+Apple 15 0.99
+Cherry 2 11.99
+Chair 3 29.99
+Table 1 299.00
+Sideboard 2 349.00
+Shelf 40 90.00
