@@ -13,4 +13,4 @@ The course covers the basic concepts of the Python programming language such as 
 ### Week 4: [Reading and Writing Data](Week4)
 ### Week 5: [Functions](Week5)
 ### Week 6: [Libraries](Week6)
-### Week 7: [Final Exam]()
+### Week 7: [Final Exam](Exam)
